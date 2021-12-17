@@ -1,2 +1,2 @@
-# Goldma Avalanche
-Goldma Smart Contract
+# GoldmaDao Avalanche
+Goldma Dao Smart Contract
